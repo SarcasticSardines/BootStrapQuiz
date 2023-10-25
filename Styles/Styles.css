@@ -1,0 +1,29 @@
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    height: 200px;
+    background-color: #D9D9D9;
+}
+.centerMe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.bigDogs {
+    width: 700px;
+}
+.bigTxt {
+    font-size: 30px;
+    font-weight: bold;
+}
+.box {
+    border-width: 1px;
+    border-color: black;
+    border: solid;
+}
+.purpleBox {
+    background-color: rebeccapurple;
+}
